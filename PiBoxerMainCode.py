@@ -159,7 +159,7 @@ def OpenSpeedWindow():
     row_no = 0
 
     #This should only be executed once to create a new database
-    #c.execute("CREATE TABLE PunchDataSpeed2 (Name text, Punches integer, Force integer)")
+    #c.execute("CREATE TABLE PunchData(Name text, Punches integer, Force integer)")
 
     #insert new data into database
     c.execute("INSERT INTO PunchDataSpeed2 (Name, Punches, Force) VALUES(?, ?, ?)", (name, punches, total_avg_force))
