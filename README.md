@@ -1,4 +1,4 @@
-PyBoxer
+# PyBoxer
 
 This project measures the speed and strength of punches over a 1 minute interval.
 The apparatus consiting of 3 force sensors, an Arduino, a Raspberry pi and a small screen 
