@@ -9,3 +9,5 @@ the user will punch the sensors as hard and fast as possible. Punch strength is 
 each punch is landed and the number of punches is recorded. At the end of the 60 seconds
 2 graphs appear to compare the users performance over time from the first performance to the 
 current performance. 
+
+![alt text](https://ShaunHaldane@github.com/[ShaunHaldane]/[PiBoxer]/blob/[branch]/PunchingPiBoxer.png?raw=true)
