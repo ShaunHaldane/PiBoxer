@@ -33,5 +33,5 @@ current performance.
 ![alt text](PiBoxerResultsonBag.png?raw=true)
 
 ## Final Note
-The apparatus needs more work because the wires become loose after a few sessions. It is very frustrating when the wires come loose during the 60 second punch interval and messes up the score. The software workes brilliantly.
+The apparatus needs more work because the wires become loose after a few sessions. It is very frustrating when the wires come loose during the 60 second punch interval and messes up the score. The software workes brilliantly. The PiBoxerPresentationVideo.mp4 in the files section of this repo can be downloaded to see me present the product.
 
